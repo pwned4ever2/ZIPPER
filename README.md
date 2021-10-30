@@ -6,7 +6,7 @@ zipper, the file encrypting software used for people to protect their privacy wh
 
 
 To USE the software out on your machine,
-USE AT YOUR OWN RISK, NO WARRANTY
+USE AT YOUR OWN RISK, NO WARRANTY homemade could be unstable beta version btv 1.0
 
 * [client] Run the RSA script to generate two keys, a private and public key
 
